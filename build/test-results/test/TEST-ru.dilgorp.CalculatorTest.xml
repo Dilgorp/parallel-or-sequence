@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.dilgorp.CalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-04-08T07:12:55" hostname="DESKTOP-FSV3F43" time="0.558">
+  <properties/>
+  <testcase name="calculateWithParallelStreamIsCorrect()" classname="ru.dilgorp.CalculatorTest" time="0.287"/>
+  <testcase name="calculateWithSequenceStreamIsCorrect()" classname="ru.dilgorp.CalculatorTest" time="0.14"/>
+  <testcase name="calculateWithSingleLoopIsCorrect()" classname="ru.dilgorp.CalculatorTest" time="0.078"/>
+  <testcase name="calculateParallelLoopIsCorrect()" classname="ru.dilgorp.CalculatorTest" time="0.051"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

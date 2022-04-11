@@ -1,0 +1,6 @@
+JMH S 16 ru.dilgorp.First S 47 ru.dilgorp.jmh_generated.First_increase_jmhTest S 8 increase S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 11 NANOSECONDS E E 
+JMH S 16 ru.dilgorp.First S 43 ru.dilgorp.jmh_generated.First_loop_jmhTest S 4 loop S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 16 ru.dilgorp.First S 51 ru.dilgorp.jmh_generated.First_loopParallel_jmhTest S 12 loopParallel S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 16 ru.dilgorp.First S 42 ru.dilgorp.jmh_generated.First_max_jmhTest S 3 max S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 11 NANOSECONDS E E 
+JMH S 16 ru.dilgorp.First S 53 ru.dilgorp.jmh_generated.First_streamParallel_jmhTest S 14 streamParallel S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 
+JMH S 16 ru.dilgorp.First S 53 ru.dilgorp.jmh_generated.First_streamSequence_jmhTest S 14 streamSequence S 11 AverageTime E A 1 1 1 E E E E E E E I 1 1 I 1 1 E E E E E U 12 MILLISECONDS E E 

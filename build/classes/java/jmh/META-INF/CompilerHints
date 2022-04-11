@@ -1,0 +1,12 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,ru/dilgorp/First.increase
+inline,ru/dilgorp/First.loop
+inline,ru/dilgorp/First.loopParallel
+inline,ru/dilgorp/First.max
+inline,ru/dilgorp/First.setUp
+inline,ru/dilgorp/First.streamParallel
+inline,ru/dilgorp/First.streamSequence
